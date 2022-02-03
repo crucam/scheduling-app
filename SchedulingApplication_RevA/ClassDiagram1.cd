@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SchedulingApplication_RevA.AppointmentsForm" Collapsed="true">
+    <Position X="14" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAABGAAAIECAgCEAEgCSIkBEAAEkKAABAAAAgA=</HashCode>
+      <FileName>AppointmentsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchedulingApplication_RevA.CreateAppointment" Collapsed="true">
+    <Position X="14" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAGBAAABCCAgAFkBEgCAIMQCAAmAAAAAASKABAAIAAA=</HashCode>
+      <FileName>CreateAppointment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchedulingApplication_RevA.CreateCustomer" Collapsed="true">
+    <Position X="14" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAiACAAABEAQACAAECCAAAAACAAACAAAQAAAAg=</HashCode>
+      <FileName>CreateCustomerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchedulingApplication_RevA.CreateUserForm" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAAABEgQACAAEgCAAgAAAACJQAAARAAAAA=</HashCode>
+      <FileName>CreateUserForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchedulingApplication_RevA.CustomerRecordsForm" Collapsed="true">
+    <Position X="15.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAgAAACAABAEBQACIAMACCggAAAAABCCAAAAAAAg=</HashCode>
+      <FileName>CustomerRecordsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchedulingApplication_RevA.DataHelperCreate">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACBACAEVIABIAAgIAAIAIECAAASAAAYAAAAAQAAAAIA=</HashCode>
+      <FileName>DataHelperCreate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchedulingApplication_RevA.DataHelperModify">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAhAAAAEBAAAQAAAAQAAASAAAAAAA=</HashCode>
+      <FileName>DataHelperModify.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchedulingApplication_RevA.DeleteAppointment">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIBACAAQCAAAAEAAACAAUQCaAkAAAAEACQABEAQAoA=</HashCode>
+      <FileName>DeleteAppointment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchedulingApplication_RevA.DeleteVerificationForm">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAAABAAAACAAAACQAAAABxAAAAQAAAAAAA=</HashCode>
+      <FileName>DeleteVerificationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchedulingApplication_RevA.Hub" Collapsed="true">
+    <Position X="15.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAEAIQAIACAAAAgAAACAAAACIAoBAAAIASAABAAAIAI=</HashCode>
+      <FileName>Hub.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchedulingApplication_RevA.LoginPage" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAWAAASAAAgAAJACAAAACECAIAAAABAAEABAAAYQ=</HashCode>
+      <FileName>LoginPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchedulingApplication_RevA.ModifyAptData">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAEBAAIBCCAggFkAEACAIEQSAAsAAQBAASJADAEAACA=</HashCode>
+      <FileName>ModifyAptData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchedulingApplication_RevA.ModifyAptMain" Collapsed="true">
+    <Position X="15.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJAAAAACAAABEAAACAAEwCYAkAAAAEAKAABEAAAAA=</HashCode>
+      <FileName>ModifyAptMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchedulingApplication_RevA.ModifyCustomerForm" Collapsed="true">
+    <Position X="15.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFAAAiACAAAFkIAACABECCQAYAADACASAAIAAAAAg=</HashCode>
+      <FileName>ModifyCustomerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchedulingApplication_RevA.Program" Collapsed="true">
+    <Position X="18.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchedulingApplication_RevA.Reports" Collapsed="true">
+    <Position X="14" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAJBCCQBACEkhBCIACCEAEEKDEoAQAGgAaIAAMCICoA=</HashCode>
+      <FileName>Reports.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchedulingApplication_RevA.UserInfo">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAgAAAAAAAgAABACIAAAAAAAAEAAAAAAAAAAAIA=</HashCode>
+      <FileName>UserInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchedulingApplication_RevA.Properties.Resources" Collapsed="true">
+    <Position X="18.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchedulingApplication_RevA.Properties.Settings" Collapsed="true">
+    <Position X="18.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
